@@ -1,4 +1,4 @@
-🚀 Dadhichi is an AI-driven platform designed to streamline the organ donation process, connecting donors, recipients, and healthcare providers efficiently.
+We built Dadhichi, an AI-powered fitness coach inspired by the wisdom of Sage Dadhichi, designed to make personalized fitness accessible to everyone.
 
 🔥 Key Features of Dadhichi:
 ✅ AI-powered Real-time Pose Correction – Ensure proper form and prevent injuries.
